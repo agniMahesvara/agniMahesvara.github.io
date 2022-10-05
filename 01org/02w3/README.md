@@ -2,4 +2,4 @@
 ## w3.org /
 
 #### by URL
-* three-level domain [lists.w3.org/](03lists/)
+* three-level domain → [lists.w3.org /](03lists/)
