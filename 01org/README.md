@@ -1,5 +1,5 @@
 ### [agnimahesvara.github.io](agnimahesvara.github.io)
-## .org/
+## .org /
 
 #### by URL
 * three-level domain web.archive.org/ plus path segment [web/](02archive/03web/04web/)
